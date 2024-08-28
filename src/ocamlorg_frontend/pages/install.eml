@@ -132,8 +132,7 @@ Layout.render
                 Run the following in a terminal (either Windows PowerShell or Command Prompt):
               </p>
 
-              <%s! Copy_to_clipboard.small_code_snippet ~id:"install-winget-git" "winget install Git.Git" %>
-              <%s! Copy_to_clipboard.small_code_snippet ~id:"install-winget-dkml" "winget install OCaml.opam" %>
+              <%s! Copy_to_clipboard.small_code_snippet ~id:"install-winget" "winget install Git.Git OCaml.opam" %>
 
           </li>
 
