@@ -122,7 +122,7 @@ Layout.render
           <li>
             <h3>Install the opam package manager</h3>
               <p>
-                OCaml's package manager opam's 2.2 version onwards supports Windows natively. It is the recmmended way to install OCaml on Windows machines.
+                OCaml's package manager, opam, supports Windows natively since version 2.2.0 and is the recommended way to install OCaml on Windows.
 
                 If you are looking for a different installation method, check out the alternative installation instructions
                 provided in the <a href="<%s Url.tutorial "ocaml-on-windows" %>">"OCaml on Windows" guide</a>.
